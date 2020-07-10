@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--
-**sgoley/sgoley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**sgoley/sgoley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on virtual 💳 payment services at [Finexio](https://finexio.com/)!
 - 🌱 I’m currently learning [dbt](https://www.getdbt.com/), [terraform](https://www.terraform.io/), and more!
