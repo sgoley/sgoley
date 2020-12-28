@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I've been working on virtual 💳 payment services at [Finexio](https://finexio.com/) as well as various other projects, personal and professional!
-- 📚 I'm currently learning [dbt](https://www.getdbt.com/), [terraform](https://www.terraform.io/), and more!
+- 📚 I'm currently learning [terraform](https://www.terraform.io/), [BigQuery](https://cloud.google.com/bigquery), [dbt](https://www.getdbt.com/), [Looker](https://looker.com/), and more!
 - 👯 I'm looking to collaborate on projects related to data infrastructure and architecture abstraction!
 - 🎓 I'm [Salesforce certified](https://trailhead.salesforce.com/credentials/certification-detail-print?searchString=qF1dVPZWwQRkbSUKaVyCuw7rCj2vJdVVpiJNYU1Ycb1j3kVQ0OiTCvQ6k71WOlPC) both as an Administrator (ADM201) and as a Heroku Architecture Designer .
 - 💬 Ask me about data stacks! 🚢[SHPPT-Data-Stack](https://github.com/sgoley/SHPPT-Data-Stack) (which I created!)
