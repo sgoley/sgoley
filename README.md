@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I've been working on virtual 💳 payment services at [Finexio](https://finexio.com/) as well as various other projects, personal and professional!
-- 📚 I'm currently learning [terraform](https://www.terraform.io/), [BigQuery](https://cloud.google.com/bigquery), [dbt](https://www.getdbt.com/), [Looker](https://looker.com/), and more!
+Hi there 👋
+- 🔭 Currently working on the future of packaging 📦 at Lumi! Previously, I worked on virtual 💳 payment services at Finexio (https://finexio.com), Healthcare Marketing at ARS (https://www.advancedrecoverysystems.com/) as well as various other projects, personal and professional!
+- 📚 I'm currently learning terraform, BigQuery, dbt, Looker, and more!
 - 👯 I'm looking to collaborate on projects related to data infrastructure and architecture abstraction!
-- 🎓 I'm [Salesforce certified](https://trailhead.salesforce.com/credentials/certification-detail-print?searchString=qF1dVPZWwQRkbSUKaVyCuw7rCj2vJdVVpiJNYU1Ycb1j3kVQ0OiTCvQ6k71WOlPC) both as an Administrator (ADM201) and as a Heroku Architecture Designer .
-- 💬 Ask me about data stacks! 🚢[SHPPT-Data-Stack](https://github.com/sgoley/SHPPT-Data-Stack) (which I created!)
-- 📫 How to reach me: https://www.linkedin.com/in/sgoley
-- ☁️ My favorite cloud platform is: [Heroku](https://heroku.com/)
+- 🎓 I'm Salesforce certified both as an Administrator (ADM201) and as a Heroku Architecture Designer.
+- 💬 Ask me about data stacks! 🚢SHPPT stack: (https://github.com/sgoley/SHPPT-Data-Stack)
+- ☁️ My current favorite cloud platform is GCP (https://cloud.google.com/)
