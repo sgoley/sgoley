@@ -12,4 +12,4 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about data stacks! 🚢SHPPT stack: (https://github.com/sgoley/SHPPT-Data-Stack)
 - ☁️ My current favorite cloud platform is GCP (https://cloud.google.com/)
 
-[![sgoley's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgoley)](https://github.com/sgoley/github-readme-stats)
+[![sgoley's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgoley)](https://github.com/anuraghazra/github-readme-stats)
