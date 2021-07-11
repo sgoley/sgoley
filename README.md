@@ -11,3 +11,5 @@ Here are some ideas to get you started: -->
 - 🎓 I'm Salesforce certified both as an Administrator (ADM201) and as a Heroku Architecture Designer.
 - 💬 Ask me about data stacks! 🚢SHPPT stack: (https://github.com/sgoley/SHPPT-Data-Stack)
 - ☁️ My current favorite cloud platform is GCP (https://cloud.google.com/)
+
+[![sgoley's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgoley)](https://github.com/sgoley/github-readme-stats)
