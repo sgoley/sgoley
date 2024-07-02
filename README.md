@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 Previously, I worked on virtual 💳 payment services at [Finexio](https://finexio.com), Healthcare Marketing at [ARS](https://www.advancedrecoverysystems.com/) as well as various other projects, personal and professional!
+- 🔭 Currently building data products around the future of 🏘️residential investment with [Avenue One](https://www.avenueone.com/). Previously, I worked on virtual 💳 payment services at [Finexio](https://finexio.com), Healthcare Marketing at [ARS](https://www.advancedrecoverysystems.com/) as well as various other projects, personal and professional!
 - 📚 I'm currently learning terraform, BigQuery, dbt, Looker, and more!
 - 👯 I'm looking to collaborate on projects related to data infrastructure and architecture abstraction!
 - 🎓 I'm Salesforce certified both as an Administrator (ADM201) and as a Heroku Architecture Designer.
