@@ -10,4 +10,4 @@ Here are some ideas to get you started: -->
 - 👯 I'm always looking to collaborate on projects related to data infrastructure and architecture abstraction!
 - 🎓 I'm Salesforce certified both as an Administrator (ADM201) and as a Heroku Architecture Designer as of 2020.
 - ❄️ I'm Snowflake certified for SnowPro Core (COF-C02) as of 2023.
-- 🛠️ My current favorite productivity tools lately are: [Obsidian Notes📝](https://obsidian.md/) and [Mermaid Charts🗺️](https://mermaid.live/edit)
+- 🛠️ My current favorite productivity tools lately are: [Obsidian Notes📝](https://obsidian.md/),  [Mermaid Charts🗺️](https://mermaid.live/edit), [Devdocs📚](https://devdocs.io/), and [Cursor🤖](https://www.cursor.com/)
