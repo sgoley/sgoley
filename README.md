@@ -8,8 +8,7 @@ Here are some ideas to get you started: -->
 - 🔭 Experience building data products for companies like [Sofi](https://www.sofi.com/)🏦, [Avenue One](https://www.avenueone.com/) 🏘️, B2B payments automation 💳 with [Finexio](https://finexio.com), Healthcare
   Marketing at [ARS](https://www.advancedrecoverysystems.com/), Capital Markets at Deutsche Bank, and much more — both personal and professional!
 - 🏗️ Personal projects I'm building behind the scenes:
-    - sub-notes — exploring multi-modal context ingestion and retention
-    - alertanything — a self-hosted change monitoring and multi-channel alerting service
+    - subnotes — exploring multi-modal context ingestion and retention
 - 🖥️ Running a local homelab + NAS for image and container management — orchestrating services, experimenting with infrastructure, and
   generally learning by doing.
 - 🪪 Picked up certifications [here](https://www.credly.com/users/scott-goley) and [there](https://www.salesforce.com/trailblazer/sgoley) along the way.
