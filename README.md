@@ -5,14 +5,15 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 Experience building data products for companies like 
-    - [Sofi](https://www.sofi.com/)🏦
-    - [Avenue One](https://www.avenueone.com/) 🏘️
+- 🔭 Experience building advanced analytics and data based products for companies like 
+    - Compliance data & AI engineering at [Sofi](https://www.sofi.com/)🏦
+    - Real estate and financial data for institutional investors at [Avenue One](https://www.avenueone.com/) 🏘️
     - B2B payments automation 💳 with [Finexio](https://finexio.com),
     - Healthcare Marketing at [ARS](https://www.advancedrecoverysystems.com/),
     - Capital Markets at Deutsche Bank, and much more — both personal and professional!
 - 🏗️ Personal projects I'm building behind the scenes:
     - subnotes — exploring multi-modal context ingestion and retention
+    - [scottgoley.com](https://scottgoley.com) — a personal website with a live LLM chat interface so anyone can talk to me at anytime about my projects, skills, and experience. A "living" portfolio in a way.
 - 🖥️ Running a local homelab + NAS for image and container management — orchestrating services, experimenting with infrastructure, and
   generally learning by doing.
 - 🪪 Picked up certifications [here](https://www.credly.com/users/scott-goley) and [there](https://www.salesforce.com/trailblazer/sgoley) along the way.
