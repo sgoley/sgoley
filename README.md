@@ -13,6 +13,7 @@ Here are some ideas to get you started: -->
     - Capital Markets at Deutsche Bank, and much more — both personal and professional!
 - 🏗️ Personal projects I'm building behind the scenes:
     - [scottgoley.com](https://scottgoley.com) — a personal website with a live LLM chat interface so anyone can talk to me at anytime about my projects, skills, and experience. A "living" portfolio or resume in a way.
+    - my own [skills](https://github.com/sgoley/skills), a set of llm harness skills for various use cases.
     - **subnotes**, a self-hosted youtube summarization app that utilizes LLMs for transcription and syncronization to an obsidian vault
     - **marker**, a self-hosted ebook converter that utilizes LLMs for summarization, analysis, and insight extraction
     - **rss-box**, a self-hosted RSS reader that utilizes LLMs for algorithmic filtering
