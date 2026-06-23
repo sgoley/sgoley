@@ -17,6 +17,7 @@ Here are some ideas to get you started: -->
     - **subnotes**, a self-hosted youtube summarization app that utilizes LLMs for transcription and syncronization to an obsidian vault
     - **marker**, a self-hosted ebook converter that utilizes LLMs for summarization, analysis, and insight extraction
     - **rss-box**, a self-hosted RSS reader that utilizes LLMs for algorithmic filtering
+    - [**accountable**](https://github.com/sgoley/accountable), a self-hosted habit tracker
 - 🖥️ Running a local homelab + NAS for image and container management — orchestrating services, experimenting with infrastructure, and
   generally learning by doing.
 - 🪪 Picked up certifications [here](https://www.credly.com/users/scott-goley) and [there](https://www.salesforce.com/trailblazer/sgoley) along the way.
